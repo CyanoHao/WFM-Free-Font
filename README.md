@@ -18,6 +18,7 @@
 | 字体名 | 版本号 | 基本拉丁字母 | 扩展拉丁字母 | 西里尔字母 | 希腊字母 | 简介 |
 | ------ | ------ | ------------ | ------------ | ---------- | -------- | ---- |
 | [Noto Sans](NotoSans/) | 2.000 | ✓ | ✓ | ✓ | ✓ | Google 发布的支持多语言的字体，是 Noto 家族的一部分。|
+| [Noto Rounded](https://github.com/CyanoHao/Nowar-Rounded/tree/master/notor) | 0.1.1 | ✓ | ✓ | ✓ | ✓ | 基于 Noto Sans 生成的圆体。|
 <!-- |  |  |  |  |  |  |  | -->
 
 * 基本拉丁字母：英语使用的 26 个拉丁字母。
@@ -32,6 +33,8 @@
 | [思源黑体 SC](SourceHanSansSC/) | 2.000 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | Adobe 和 Google 联合推出的黑体家族，为简体中文优化。|
 | [思源黑体 TC](SourceHanSansTC/) | 2.000 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | Adobe 和 Google 联合推出的黑体家族，为繁体中文优化。|
 | [思源黑体 CN](SourceHanSansCN/) | 2.000 | ✓ | ✓ | ✓ | ✓ | ✓ |  | 面向中国大陆发布的思源黑体，不含韩语谚文。|
+| [Resource Han Rounded](https://github.com/CyanoHao/Resource-Han-Rounded) | 0.990 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | 基于思源黑体生成的圆体。|
+| [有爱圆体](https://github.com/CyanoHao/Nowar-Rounded) | 0.1.1 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | 魔兽世界字体包。基于 Noto Sans 和思源黑体生成的圆体，西文字符效果比 Resource Han Rounded 更好。|
 <!-- |  |  |  |  |  |  |  |  |  | -->
 
 * GB2312：中国大陆常用汉字。
