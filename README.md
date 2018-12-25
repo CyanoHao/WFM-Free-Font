@@ -21,6 +21,7 @@
 | [Noto Rounded](https://github.com/CyanoHao/Nowar-Rounded/tree/master/notor) | 0.1.1 | ✓ | ✓ | ✓ | ✓ | 基于 Noto Sans 生成的圆体。|
 | [Overpass](Overpass/) | 3.000 | ✓ | ✓ | | | Expressway 的开源版本，高速公路指路标志字体。ElvUI 附带的字体。|
 | [PT Sans](PTSans/) | 2.003W | ✓ | ✓ | ✓ | | 俄罗斯纪念彼得大帝推行俄语正写法改革 300 周年推出的字体。ElvUI 附带的字体。|
+| [Metropolis](Metropolis/) | 1.000 | ✓ | 部分 |  |  | Gotham 风格的开源字体。Gotham 是 [Naowh](https://worldofwarcraft.com/en-gb/character/tarren-mill/Naowhxd) 使用的伤害字体。|
 <!-- |  |  |  |  |  |  |  | -->
 
 * 基本拉丁字母：英语使用的 26 个拉丁字母。
