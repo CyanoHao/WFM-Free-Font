@@ -15,14 +15,22 @@
 
 ## 西文字体
 
+### Humanist — 人文主义风格
+
 | 字体名 | 版本号 | 基本拉丁字母 | 扩展拉丁字母 | 西里尔字母 | 希腊字母 | 简介 |
 | ------ | ------ | ------------ | ------------ | ---------- | -------- | ---- |
 | [Noto Sans](NotoSans/) | 2.000 | ✓ | ✓ | ✓ | ✓ | Google 发布的支持多语言的字体，是 Noto 家族的一部分。|
 | [Noto Rounded](https://github.com/CyanoHao/Nowar-Rounded/tree/master/notor) | 0.1.1 | ✓ | ✓ | ✓ | ✓ | 基于 Noto Sans 生成的圆体。|
-| [Overpass](Overpass/) | 3.000 | ✓ | ✓ | | | Expressway 的开源版本，高速公路指路标志字体。ElvUI 附带的字体。|
 | [PT Sans](PTSans/) | 2.003W | ✓ | ✓ | ✓ | | 俄罗斯纪念彼得大帝推行俄语正写法改革 300 周年推出的字体。ElvUI 附带的字体。|
-| [Metropolis](Metropolis/) | 1.000 | ✓ | 部分 |  |  | Gotham 风格的开源字体。Gotham 是 [Naowh](https://worldofwarcraft.com/en-gb/character/tarren-mill/Naowhxd) 使用的伤害字体。|
+| [Sansus Webissimo](SansusWebbissimo/) | 1.0 | ✓ | ✓ | ✓ |  | 优雅的人文主义无衬线体。|
 <!-- |  |  |  |  |  |  |  | -->
+
+### Geometric — 几何化风格
+
+| 字体名 | 版本号 | 基本拉丁字母 | 扩展拉丁字母 | 西里尔字母 | 希腊字母 | 简介 |
+| ------ | ------ | ------------ | ------------ | ---------- | -------- | ---- |
+| [Overpass](Overpass/) | 3.000 | ✓ | ✓ | | | Expressway 的开源版本，高速公路指路标志字体。ElvUI 附带的字体。|
+| [Metropolis](Metropolis/) | 1.000 | ✓ | ✓ |  |  | Gotham 风格的开源字体。Gotham 是 [Naowh](https://worldofwarcraft.com/en-gb/character/tarren-mill/Naowhxd) 使用的伤害字体。|
 
 * 基本拉丁字母：英语使用的 26 个拉丁字母。
 * 扩展拉丁字母：西欧诸国语言使用的拉丁字母，包括 á、ü、ò、ç 等带重音的拉丁字母，及 æ、œ、ß 等合字。
