@@ -22,7 +22,7 @@
 | [Noto Sans](NotoSans/) | 2.000 | ✓ | ✓ | ✓ | ✓ | Google 发布的支持多语言的字体，是 Noto 家族的一部分。|
 | [Noto Rounded](https://github.com/CyanoHao/Nowar-Rounded/tree/master/notor) | 0.1.1 | ✓ | ✓ | ✓ | ✓ | 基于 Noto Sans 生成的圆体。|
 | [PT Sans](PTSans/) | 2.003W | ✓ | ✓ | ✓ | | 俄罗斯纪念彼得大帝推行俄语正写法改革 300 周年推出的字体。ElvUI 附带的字体。|
-| [Sansus Webissimo](SansusWebbissimo/) | 1.0 | ✓ | ✓ | ✓ | | 优雅的人文主义无衬线体。|
+| [Sansus Webissimo](SansusWebissimo/) | 1.0 | ✓ | ✓ | ✓ | | 优雅的人文主义无衬线体。|
 <!-- |  |  |  |  |  |  |  | -->
 
 ### Geometric — 几何化风格
