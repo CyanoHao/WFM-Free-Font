@@ -1,4 +1,4 @@
-# 思源黑体 CN：Adobe 和 Google 联合推出的黑体家族，为简体中文优化
+# 思源黑体 CN：面向中国大陆发布的思源黑体
 
 许可协议为 [SIL OFL](https://scripts.sil.org/OFL)。
 
